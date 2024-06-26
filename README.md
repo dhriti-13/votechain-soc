@@ -1,5 +1,6 @@
 # votechain-soc
 This project aims to develop a blockchain based electronic voting system in Python.
+
 Blockchain tutorial:
 A blockchain is a growing list of records, called blocks, which are linked using cryptography. Each block contains a cryptographic hash of the previous block, a timestamp, and transaction data.
 Double-spending: the sender spends the same money at more than one place for obtaining services or goods from multiple vendors.(for eg giving digital coin to one and its copy to another, where it being a copy cannot be verified). If every digital transaction is routed through a centralized authority that maintains a ledger book recording all the transactions, the problem of double-spending would be solved. 
